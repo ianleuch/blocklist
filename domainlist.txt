@@ -1,3 +1,7 @@
+agdist-api.cloud.huawei.com
+cdn.liveshopping.bambuser.com
+dinamicx.alibabausercontent.com
+ssl.2.damoh.familie.de
 alsycon.nl
 biterika.ru
 desktop.com.br
@@ -14940,7 +14944,6 @@ backstory.ebay.ch
 xbox.com
 xboxlive.xom
 playstation.net
-xeno-soswcrde4a-uc.a.run.app
 shop-dango.com
 link.blick.ch
 4cloud.mobi
@@ -14960,7 +14963,6 @@ recipecontent.fooby.ch
 privacyportal-ch.onetrust.com
 hqt.ro
 files.xz.com
-app-measurement.com
 fooby.ch
 clicks.mlsend.com
 privacyportal-de.onetrust.com
@@ -75125,7 +75127,6 @@ htcsense.com
 tzoo-img.com
 vive.com
 viveport.com
-volvocars.com
 www1.djicdn.com
 www2.djicdn.com
 www21420.com
