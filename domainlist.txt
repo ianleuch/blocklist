@@ -1,3 +1,28 @@
+aax-fe.amazon.com.au
+cdn1.judge.me
+ea.pstmrk.it
+imgsct.cookiebot.com
+lan.sdk.linkedin.com
+mevspace.com
+osb-eusvc-v2.samsungqbe.com
+osb-mc-v2.samsungqbe.com
+osb-tnc-v2-appsacc.samsungqbe.com
+sastv.samsungqbe.com
+wds.ecsxs.com
+yuntrack.com
+uwp-aeg-hbs.quickplay.com #Roku TV tracker
+soapbike.com
+serverlux.ru
+sentry.extranet.netcetera.biz
+privacyportal-eu.onetrust.com
+#o170101.ingest.sentry.io
+ngs.ru
+feed.theplatform.com #Sony TV tracker
+d7luqmstmj331.cloudfront.net #Amazon video server maybe
+d2lkq7nlcrdi7q.cloudfront.net #Roku TV tracker
+d2hzeyj6b557bu.cloudfront.net #Apple/ESPN TV Tracker maybe
+bthoster.com
+aeg-personalization.quickplay.com #Roku TV tracker
 agdist-api.cloud.huawei.com
 cdn.liveshopping.bambuser.com
 dinamicx.alibabausercontent.com
@@ -36378,7 +36403,7 @@ db9x.com
 dbank.com
 dbankcdn.com
 dbankcloud.asia
-dbankcloud.com
+#dbankcloud.com https://blokada.org/mirror/v5/exodusprivacy/standard/hosts.txt
 dbankcloud.eu
 dbankcloud.ru
 dbankedge.net
@@ -72811,7 +72836,7 @@ wandodo.com
 wandoer.com
 wandongli.com
 wandouip.com
-wandoujia.com
+#wandoujia.com
 waneziyuan.com
 wanfangche.com
 wanfangdata.com
