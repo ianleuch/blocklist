@@ -63,7 +63,6 @@ fuse.emilfrey.ch
 prankdial.net
 prankdial.com
 gravatar.com
-hawkbit.devolo.net
 o211508.ingest.sentry.io
 photos.microsoft.com
 prod.service.minerva.devices.a2z.com
@@ -15024,7 +15023,6 @@ xboxlive.com
 xboxservices.com
 xboxab.com
 aax-eu.amazon.de
-switzerlandnorth-0.in.applicationinsights.azure.com
 fp.measure.office.com
 gitee.com
 ipip.net
