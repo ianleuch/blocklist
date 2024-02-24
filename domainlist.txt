@@ -1,3 +1,13 @@
+vk.link
+vk-portal.net
+vk-cdn.net
+obsorth.opwtjnpoc.ml
+ntcpk.org
+guzzoni.apple.com
+embeddedassistant.googleapis.com
+cdn.staticfile.org
+branditechture.agency
+as211760.net
 cdn.staticfile.org.bsclink.cn
 transcomm.ru
 gcn.bg
@@ -10,7 +20,6 @@ platform.dbankcloud.com
 osb-v2.samsungqbe.com
 mycdn.me
 isoi.asia
-is1-ssl.mzstatic.com
 cdn.doofinder.com
 cdn.awsde0.fds.api.mi-img.com
 api.usercentrics.eu
@@ -59656,7 +59665,6 @@ ocimg.com
 oclkj.com
 ocooca.com
 ocsjs.com
-ocsp.globalsign.com
 ocsp.us.cdnetworks.com
 oct-asia.com
 oct-cts.com
@@ -63986,7 +63994,6 @@ roadsigngroup.com
 robam.com
 robei.com
 robook.com
-roborock.com
 robot-china.com
 robotedu.org
 robotplaces.com
