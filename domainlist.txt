@@ -1,3 +1,10 @@
+notify.manychat.com
+ipv4superhub.com
+ftp.datagrandest.fr
+flyservers.com
+directwebhost.org
+dedires.com
+c.office.com
 xp.atlassian.com
 grs.dbankcloud.asia.arpa
 grs.dbankcloud.cn.arpa
@@ -31957,7 +31964,7 @@ ceoim.com
 ceook.com
 ceotx.com
 ceowan.com
-ceocom
+ceo.com
 ceoxq.com
 cepin.com
 ceping.com
@@ -38439,8 +38446,8 @@ dzty365.com
 dzvv.com
 dzwebs.net
 dzwindows.com
-dzcom
-dznet
+dz.com
+dz.net
 dzxwnews.com
 dzxxzy.com
 dzy.link
@@ -44716,7 +44723,7 @@ hdhospital.com
 hdhui.com
 hdj.me
 hdjay.com
-hdjcom
+hdj.com
 hdlcdns.com
 hdlchina.com
 hdletv.com
