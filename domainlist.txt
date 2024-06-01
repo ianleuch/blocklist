@@ -1,4 +1,12 @@
+api.usercentrics.eu
+app.usercentrics.eu
+cdn-loyalty.yotpo.com
+cdn-widgetsrepository.yotpo.com
+cdn.e.karenmillen.com
 lvs.ru
+cdn.polyfill.io
+cdns.gigya.com
+reddit.app.link
 notify.manychat.com
 ipv4superhub.com
 ftp.datagrandest.fr
