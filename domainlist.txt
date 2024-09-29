@@ -1,3 +1,17 @@
+intelligems.io
+api.socialsnowball.io
+api.intelligems.io
+socialsnowball.io
+cdn.adk2.com
+serveteck.com
+360.cn
+360safe.com
+eu1.gigya.com
+gsohu.com
+410security.com
+ithostline.com
+cloudie.hk
+gsohu.com
 notifier-configs.airbrake.io
 plataformaholisticaweb.com
 polaris.truevaultcdn.com
@@ -27488,7 +27502,6 @@ aliedge.com
 aliensidea.com
 alientek.com
 aliexpress-media.com
-aliexpress.com
 aliexpress.ru
 aliexpress.us
 alifabu.com
