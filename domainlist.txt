@@ -1,3 +1,15 @@
+landscapemag.net
+achetercolisperdu.com
+cloudbs.biz
+ghostnet.de
+experience-eu.piano.io
+hostslick.com
+raresseor.com
+ads.mozilla.org
+webdisk.mingsmith.net
+motionsbazaar.com
+plesk.page
+xunjie.com
 intelligems.io
 api.socialsnowball.io
 api.intelligems.io
@@ -11,7 +23,6 @@ gsohu.com
 410security.com
 ithostline.com
 cloudie.hk
-gsohu.com
 notifier-configs.airbrake.io
 plataformaholisticaweb.com
 polaris.truevaultcdn.com
@@ -572,7 +583,6 @@ osb-mc-v2.samsungqbe.com
 osb-tnc-v2-appsacc.samsungqbe.com
 sastv.samsungqbe.com
 wds.ecsxs.com
-yuntrack.com
 uwp-aeg-hbs.quickplay.com #Roku TV tracker
 soapbike.com
 serverlux.ru
@@ -15541,7 +15551,6 @@ recipecontent.fooby.ch
 hqt.ro
 files.xz.com
 fooby.ch
-clicks.mlsend.com
 privacyportal-de.onetrust.com
 gravarter.com
 orange-dc.alibaba.com
